@@ -63,7 +63,7 @@ We have one development branch that branches out specific features. When they ar
 
 ## Challenges & Learning
 
-This project was created by a group of Army veterans that were passionate about developing and learning new technologies. This app was an opportunity for us to showcase our skills that developed as a team and culminated in this project.
+This app allowed me to look at the bigger picture while working in a group of six Army veterans to build a monolithic application that would later come together in a proxy server. 
 
 ### Challenges
 

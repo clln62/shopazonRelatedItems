@@ -76,3 +76,5 @@ This app allowed me to look at the bigger picture while working in a group of si
 - Understanding where the rest of the team was and where everyone needed to go helped me as a developer in pair-programming with others, but also as the SCRUM Master to get a better overall picture of the project.<br/>
 - Tickets on Trello assisted the team in planning and production. Utilizing Trello kept us organized and accountable in creating and developing a production level application.
 
+
+##### Check out the proxy side of the project here: https://github.com/clln62/shopazonProxy
